@@ -44,3 +44,6 @@ array.each do |i|
  end
  sum
 end
+
+def add_s
+end 
