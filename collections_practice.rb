@@ -19,4 +19,5 @@ a = array[1]
 b = array[2]
 array[1] = b
 array[2] = a
+array
 end
