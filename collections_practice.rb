@@ -38,10 +38,8 @@ def find_a(array)
 end
 
 def sum_array(array)
-i = 0
 sum = 0
 array.each do |i|
-  if i < array.length
     sum = sum + i
  end
 end
