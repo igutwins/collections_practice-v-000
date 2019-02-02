@@ -42,4 +42,5 @@ sum = 0
 array.each do |i|
     sum = sum + i
  end
+ sum 
 end
