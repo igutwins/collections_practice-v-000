@@ -45,5 +45,6 @@ array.each do |i|
  sum
 end
 
-def add_s
+def add_s(array)
+
 end
