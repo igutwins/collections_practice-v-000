@@ -32,5 +32,7 @@ array.each do |w|
 end
 end
 def find_a(array)
-  array.select.start_with?("a")
+  array.select do {|w|
+  w.start_with?("a")
+}
 end
